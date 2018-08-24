@@ -1,6 +1,6 @@
 {
   "name": "jdfe",
-  "version": "1.0.4",
+  "version": "0.0.1",
   "description": "A common function file for work",
   "main": "index.js",
   "scripts": {
