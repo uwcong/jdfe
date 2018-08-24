@@ -1,6 +1,6 @@
 {
   "name": "jdfe-utilfn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A common Util file for work",
   "main": "index.js",
   "scripts": {
