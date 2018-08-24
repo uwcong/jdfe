@@ -1,5 +1,5 @@
 {
-  "name": "jdfe",
+  "name": "jdfrontend",
   "version": "0.0.1",
   "description": "A common function file for work",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uwcong/jdfe.git"
+    "url": "git+https://github.com/uwcong/jdfrontend.git"
   },
   "keywords": [
     "function"
   ],
   "bugs": {
-    "url": "https://github.com/uwcong/jdfe.git/issues"
+    "url": "https://github.com/uwcong/jdfrontend.git/issues"
   },
-  "homepage": "https://github.com/uwcong/jdfe.git#readme",
+  "homepage": "https://github.com/uwcong/jdfrontend.git#readme",
   "author": "dkzhang <1096279516@qq.com>",
-  "license": "ISC"
+  "license": "MIT"
 }
