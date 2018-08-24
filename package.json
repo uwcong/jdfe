@@ -1,23 +1,22 @@
 {
-  "name": "jdfe-utilfn",
-  "version": "1.0.3",
-  "description": "A common Util file for work",
+  "name": "jdfe",
+  "version": "1.0.4",
+  "description": "A common function file for work",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uwcong/jdfe-util.git"
+    "url": "git+https://github.com/uwcong/jdfe.git"
   },
   "keywords": [
-    "Util",
     "function"
   ],
   "bugs": {
-    "url": "https://github.com/uwcong/jdfe-util.git/issues"
+    "url": "https://github.com/uwcong/jdfe.git/issues"
   },
-  "homepage": "https://github.com/uwcong/jdfe-util.git#readme",
+  "homepage": "https://github.com/uwcong/jdfe.git#readme",
   "author": "dkzhang <1096279516@qq.com>",
   "license": "ISC"
 }

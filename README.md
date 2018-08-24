@@ -1,9 +1,6 @@
-# jdfe-utilFn
+# jdfe
 
 Usage:
 
-var UtilFn = require('./index');
-
-var isValPwd = UtilFn.isPasswordValid('336444*5');
-
-A common Util file for work.
+let JdUtil = require('./index').JdUtil;
+let JdFb = require('./index').JdFb;
